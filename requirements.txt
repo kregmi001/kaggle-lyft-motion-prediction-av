@@ -13,7 +13,7 @@ backcall==0.2.0
 black==19.10b0
 bleach==3.1.5
 cachetools==4.1.1
-catalyst==20.11
+catalyst
 certifi==2020.6.20
 cffi==1.14.2
 cfgv==3.2.0
@@ -62,8 +62,8 @@ jupyterlab-pygments==0.1.1
 kaggle==1.5.8
 keyring==21.4.0
 kiwisolver==1.2.0
-kornia==0.4.1
-l5kit==1.1.0
+kornia
+l5kit
 lightgbm==3.0.0
 llvmlite==0.34.0
 lz4==3.1.0
@@ -124,7 +124,7 @@ pyrsistent==0.16.0
 pytest==5.4.3
 pytest-cov==2.10.0
 python-dateutil==2.8.1
-pytorch-model-summary==0.1.2
+pytorch-model-summary
 pytz==2020.1
 PyYAML==5.3.1
 pyzmq==19.0.2
@@ -159,12 +159,12 @@ tensorboardX==2.1
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
-timm==0.2.1
+timm
 toml==0.10.1
-torch>=1.6.0
-torchaudio==0.7.0
+torch
+torchaudio
 torchsummary==1.5.1
-torchvision==0.11.2
+torchvision
 tornado==6.0.4
 tqdm==4.48.2
 traitlets==4.3.3
