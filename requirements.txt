@@ -2,6 +2,7 @@ absl-py==0.10.0
 adamp==0.3.0
 alabaster==0.7.12
 antlr4-python3-runtime==4.8
+apex==0.9.10.dev0
 appdirs==1.4.4
 argon2-cffi==20.1.0
 asciitree==0.3.3
