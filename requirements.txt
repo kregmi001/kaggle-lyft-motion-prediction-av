@@ -63,7 +63,7 @@ kaggle==1.5.8
 keyring==21.4.0
 kiwisolver==1.2.0
 kornia
-l5kit
+l5kit==1.1.0
 lightgbm==3.0.0
 llvmlite==0.34.0
 lz4==3.1.0
