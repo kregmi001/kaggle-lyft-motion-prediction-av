@@ -1,4 +1,4 @@
-#!/bin/bash -i
+#!/bin/bash 
 
 pysource() {
     #echo $(python -c "import ${1}; import inspect; print(inspect.getsourcefile(${1}))")
