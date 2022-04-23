@@ -1,4 +1,4 @@
-INPUT_DIR="./input"
+INPUT_DIR="/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/input"
 if [ ! -d "$INPUT_DIR/scenes/test.zarr" ]; then
     pushd "$INPUT_DIR"
     echo "Downloading dataset (train + val + test) from Kaggle..."
