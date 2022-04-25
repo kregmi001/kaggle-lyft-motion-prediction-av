@@ -18,7 +18,7 @@ echo "Downloading Full Training dataset (train_XXL) from Kaggle..."
 kaggle datasets download philculliton/lyft-full-training-set
 echo "Unpacking..."
 unzip lyft-full-training-set.zip
-mv train_full.zarr train_XXL.zarr
+mv -f train_full.zarr train_XXL.zarr
 popd
 
 pushd src/1st_level
