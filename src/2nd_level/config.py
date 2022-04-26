@@ -7,8 +7,8 @@ PRED_PATHS = ['/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/src/1st_
               '/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/src/1st_level/submissions/sub_140_xxl_enet_b5_368_test.npz']
 MODE_16_PATH = '/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/src/1st_level/submissions/sub_140_xxl_xception41_16modes_244_test.npz'
 SAMPLE_SUB_PATH = '/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/src/1st_level/submissions/multi_mode_sample_submission.csv'
-MODEL_PATH = './'
-INFER_SAVE_PATH = './'
+MODEL_PATH = '/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/src/'
+INFER_SAVE_PATH = '/data/ds440/Kushal_Code/kaggle-lyft-motion-prediction-av/src/'
 
 # n_modes params
 N_3_MODES = 3 * len(PRED_PATHS)
